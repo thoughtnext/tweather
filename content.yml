@@ -1,0 +1,16 @@
+ask:
+  - text: I'm good. How are you?
+    typing: true
+
+greeting:
+  - text: Hey there! What would you like to hear?
+    quick_replies:
+      - <.B1> Current Weather
+
+promptLocation:
+  - text: What is your location ?
+
+condition:
+  - text: It's {{condition}} today in {{city}}
+    quick_replies:
+      - <.B1> Current Weather
