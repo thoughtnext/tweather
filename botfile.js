@@ -9,7 +9,7 @@ module.exports = {
   /*
     The port on which the API and UI will be available
    */
-  port: process.env.BOTPRESS_PORT || process.env.PORT || 3000,
+  port: process.env.PORT || 3000,
 
   /*
     Some modules might generate static configuration files

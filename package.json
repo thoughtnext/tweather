@@ -1,5 +1,5 @@
 {
-  "name": "weather-botpress",
+  "name": "Tweather",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,9 @@
     "start": "botpress start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "Botpress Proprietary License"
+  "author": "sbeta",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">6.0.0"
+  }
 }

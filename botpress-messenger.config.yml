@@ -2,13 +2,13 @@
 # This is regular YAML syntax. See http://docs.ansible.com/ansible/YAMLSyntax.html
 # You can override these settings with ENV variables. They are commented below.
 
-# hostname: "" # MESSENGER_HOST
+# hostname: "https://6e46ccfe.ngrok.io/api/botpress-messenger/webhook" # MESSENGER_HOST
 
-applicationID: "1411193148934112" # MESSENGER_APP_ID
-accessToken: "EAAUDeQJaBZBABAJZBR3bZBghqqIYZBcz2VsUCKaaxW9DVbLvYyClKyMRVPJYvNTMH03SLtt5KoBmuuBWny6tBGtqh0mKWKylthWZCyEbb4FHHlcHdfuX4HZBZAS09rkq3sakHZBzAZBaODlz6Qz5qZBrYL61gvluM5ruFts3g4SWzUzQZDZD" # MESSENGER_ACCESS_TOKEN
-appSecret: "310cc65275ede5562284ef8a31a5a829" # MESSENGER_APP_SECRET
+# applicationID: "1411193148934112" # MESSENGER_APP_ID
+# accessToken: "EAAUDeQJaBZBABAJZBR3bZBghqqIYZBcz2VsUCKaaxW9DVbLvYyClKyMRVPJYvNTMH03SLtt5KoBmuuBWny6tBGtqh0mKWKylthWZCyEbb4FHHlcHdfuX4HZBZAS09rkq3sakHZBzAZBaODlz6Qz5qZBrYL61gvluM5ruFts3g4SWzUzQZDZD" # MESSENGER_ACCESS_TOKEN
+# appSecret: "310cc65275ede5562284ef8a31a5a829" # MESSENGER_APP_SECRET
 
-verifyToken: "secret" # MESSENGER_VERIFY_TOKEN
+# verifyToken: "secret" # MESSENGER_VERIFY_TOKEN
 
 # displayGetStarted: true
 # greetingMessage: ""
